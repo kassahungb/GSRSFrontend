@@ -86,14 +86,14 @@
     "Approval_ID"
   ],
   "loadedComponents": {
-    "applications": true,
+    "applications": false,
     "products": true,
-    "clinicaltrials": true,
-    "adverseevents": true,
-    "impurities": true,
-    "ssg2": true,
-    "ssg4m": true,
-    "invitropharmacology": true,
+    "clinicaltrials": false,
+    "adverseevents": false,
+    "impurities": false,
+    "ssg2": false,
+    "ssg4m": false,
+    "invitropharmacology": false,
     "userRegistration": false
   },
   "services": [
